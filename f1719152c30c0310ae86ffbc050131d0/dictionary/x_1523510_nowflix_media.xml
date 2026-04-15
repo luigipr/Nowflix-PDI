@@ -2,6 +2,7 @@
     <element db_object_id="f573bb2ac3000310ae86ffbc0501313e" label="Media" max_length="40" name="x_1523510_nowflix_media" type="collection">
         <element default="0" label="Average rating" max_length="40" name="average_rating" type="float"/>
         <element label="Release Date" max_length="255" name="release_date" type="glide_date"/>
+        <element label="Release Year" max_length="4" name="release_year" type="string"/>
         <element label="Language" max_length="250" name="language" type="string"/>
         <element label="Writers" max_length="4000" name="writers" type="string"/>
         <element display="true" label="Title" max_length="250" name="title" type="string"/>
@@ -16,7 +17,23 @@
         </element>
         <element label="Website" max_length="1024" name="website" type="url"/>
         <element label="Category" max_length="40" name="category" type="string"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Completed" sequence="200" value="3"/>
+                <element inactive_on_update="false" label="Draft" sequence="100" value="1"/>
+            </choice>
+        </element>
+        <element choice="1" default="1" label="Integration State" max_length="40" name="integration_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Starting" sequence="100" value="1"/>
+                <element inactive_on_update="false" label="Media Not Found" sequence="500" value="7"/>
+                <element inactive_on_update="false" label="Integration Failure" sequence="400" value="4"/>
+                <element inactive_on_update="false" label="Integration Succcess" sequence="300" value="3"/>
+                <element inactive_on_update="false" label="Integrating" sequence="200" value="2"/>
+            </choice>
+        </element>
         <element default="0" label="IMDB Rating" max_length="255" name="imdb_rating" type="float"/>
+        <element label="Integration error message" max_length="40" name="integration_error_message" type="string"/>
         <element label="Poster" max_length="1024" name="poster" type="url"/>
         <element label="Country" max_length="250" name="country" type="string"/>
         <element label="Production" max_length="250" name="production" type="string"/>
