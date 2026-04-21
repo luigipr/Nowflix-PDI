@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="84d4a1b2c35c0310ae86ffbc0501317d" sys_domain="global" table="x_1523510_nowflix_actor" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-20 19:51:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0d4a1b2c35c0310ae86ffbc050131a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1523510_nowflix_actor" name="x_1523510_nowflix_actor" sys_domain="global" view="Default view">84d4a1b2c35c0310ae86ffbc0501317d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1523510_nowflix_actor" sys_domain="global" view="Default view">0d31f3a2c3000310ae86ffbc050131f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-20 19:51:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-20 19:51:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8d4a1b2c35c0310ae86ffbc050131aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1523510_nowflix_actor" name="x_1523510_nowflix_actor" sys_domain="global" view="Default view">84d4a1b2c35c0310ae86ffbc0501317d</sys_ui_form>
+            <sys_ui_section caption="Medias" display_value="Medias" name="x_1523510_nowflix_actor" sys_domain="global" view="Default view">04d4a1b2c35c0310ae86ffbc0501317a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-20 19:51:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1523510_nowflix_actor</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-20 19:51:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84d4a1b2c35c0310ae86ffbc0501317d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1523510_nowflix_actor</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Nowflix" source="x_1523510_nowflix">f1719152c30c0310ae86ffbc050131d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Nowflix">f1719152c30c0310ae86ffbc050131d0</sys_scope>
+            <sys_update_name>sys_ui_form_sections_84d4a1b2c35c0310ae86ffbc0501317d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-20 19:51:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

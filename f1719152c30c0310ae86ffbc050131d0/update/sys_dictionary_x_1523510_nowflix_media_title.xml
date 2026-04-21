@@ -28,7 +28,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>250</max_length>
         <name>x_1523510_nowflix_media</name>
         <next_element/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Nowflix">f1719152c30c0310ae86ffbc050131d0</sys_scope>
         <sys_update_name>sys_dictionary_x_1523510_nowflix_media_title</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-08 01:22:08</sys_updated_on>
+        <sys_updated_on>2026-04-20 12:24:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
