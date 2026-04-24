@@ -5,7 +5,7 @@
         <api_name>x_1523510_nowflix.NowflixUtils</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
-        <description/>
+        <description>script para mostrar so medias completadas sem reviews</description>
         <mobile_callable>false</mobile_callable>
         <name>NowflixUtils</name>
         <sandbox_callable>false</sandbox_callable>
@@ -38,13 +38,13 @@ NowflixUtils.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-22 16:36:10</sys_created_on>
         <sys_id>d2a647d7c3144710ae86ffbc0501313f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>NowflixUtils</sys_name>
         <sys_package display_value="Nowflix" source="x_1523510_nowflix">f1719152c30c0310ae86ffbc050131d0</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Nowflix">f1719152c30c0310ae86ffbc050131d0</sys_scope>
         <sys_update_name>sys_script_include_d2a647d7c3144710ae86ffbc0501313f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-22 17:36:28</sys_updated_on>
+        <sys_updated_on>2026-04-23 12:40:57</sys_updated_on>
     </sys_script_include>
 </record_update>

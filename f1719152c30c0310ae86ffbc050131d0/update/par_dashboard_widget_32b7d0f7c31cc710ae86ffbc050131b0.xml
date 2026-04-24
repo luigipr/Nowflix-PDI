@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">b8577f2bc318c710ae86ffbc0501319a</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"filterConfigurations":[],"scoreSize":"auto","headingPosition":"top","sparklineStyle":"area","scoreIcon":"circle-semi-check-outline","iconStyle":"no-background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":true,"contextMenuActions":[],"headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"sortByOrder":"desc","showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"configPropModifiers":{},"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showFilterAsSeparateSeries":false,"componentId":"jvnzvelr","filterPerMetric":[],"sortBy":"value","configVersion":"23.0.0-ci-SNAPSHOT","colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Review","sourceType":"table","tableOrViewName":"x_1523510_nowflix_review","filterQuery":"state=2^ORstate=8","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzE1MjM1MTBfbm93ZmxpeF9yZXZpZXcxNzc2OTYxMTgwNDc5","dataCategories":["trend","group","simple"]}],"metrics":[{"dataSource":"dGFibGV4XzE1MjM1MTBfbm93ZmxpeF9yZXZpZXcxNzc2OTYxMTgwNDc5","id":"ZEdGaWJHVjRYekUxTWpNMU1UQmZibTkzWm14cGVGOXlaWFpwWlhjeE56YzJPVFl4TVRnd05EYzUxNzc2OTYxMTgyMzI1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"headerTitle":"Reviews Waiting for approval","id":"iconStyle","value":"no-background","propLabel":"Icon style"}</component_props>
+        <h>6</h>
+        <name>Reviews Waiting for approval</name>
+        <stored_component display_value="Reviews Waiting for approval">af71d4b7c3d8c710ae86ffbc050131b3</stored_component>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 16:48:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>32b7d0f7c31cc710ae86ffbc050131b0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Reviews Waiting for approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Nowflix" source="x_1523510_nowflix">f1719152c30c0310ae86ffbc050131d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">f1719152c30c0310ae86ffbc050131d0</sys_scope>
+        <sys_update_name>par_dashboard_widget_32b7d0f7c31cc710ae86ffbc050131b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 17:05:11</sys_updated_on>
+        <visualization/>
+        <w>13</w>
+        <widget_props/>
+        <x>35</x>
+        <y>11</y>
+    </par_dashboard_widget>
+</record_update>

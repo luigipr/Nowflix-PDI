@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">b8577f2bc318c710ae86ffbc0501319a</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1523510_nowflix_media","columnPreferenceKey":"","fixedQuery":"","followFilters":true,"listTitle":"All Active Tasks","columns":"title,average_rating","maxColumns":5,"query":"ORDERBYDESCaverage_rating","groupByField":"","limit":5,"hideViewAll":false,"hideHighlightedValues":false,"showBorder":true,"bare":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"isDashboard":true,"id":"limit","value":5,"noDebounce":true,"propLabel":"Maximum rows"}</component_props>
+        <h>21</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 17:05:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>617b1cbfc31cc710ae86ffbc05013184</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Nowflix" source="x_1523510_nowflix">f1719152c30c0310ae86ffbc050131d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">f1719152c30c0310ae86ffbc050131d0</sys_scope>
+        <sys_update_name>par_dashboard_widget_617b1cbfc31cc710ae86ffbc05013184</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 17:05:11</sys_updated_on>
+        <visualization/>
+        <w>25</w>
+        <widget_props/>
+        <x>0</x>
+        <y>13</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Nowflix">f1719152c30c0310ae86ffbc050131d0</application>
+        <file_path/>
+        <instance_id>19d336d4eb4a16d0e483f459bad0cda7</instance_id>
+        <instance_name>dev290286</instance_name>
+        <name>par_dashboard_widget_617b1cbfc31cc710ae86ffbc05013184</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">b8577f2bc318c710ae86ffbc0501319a</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_1523510_nowflix_media","columnPreferenceKey":"","fixedQuery":"","followFilters":true,"listTitle":"All Active Tasks","columns":"title,average_rating","maxColumns":5,"query":"ORDERBYDESCaverage_rating","groupByField":"","limit":5,"hideViewAll":false,"hideHighlightedValues":false,"showBorder":true,"bare":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"isDashboard":true,"id":"limit","value":5,"noDebounce":true,"propLabel":"Maximum rows"}</component_props><h>21</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-23 17:05:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>617b1cbfc31cc710ae86ffbc05013184</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Nowflix" source="x_1523510_nowflix">f1719152c30c0310ae86ffbc050131d0</sys_package><sys_policy/><sys_scope display_value="Nowflix">f1719152c30c0310ae86ffbc050131d0</sys_scope><sys_update_name>par_dashboard_widget_617b1cbfc31cc710ae86ffbc05013184</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-23 17:05:11</sys_updated_on><visualization/><w>25</w><widget_props/><x>0</x><y>13</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>543292473</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3e1ad952c30c0310ae86ffbc05013104</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 17:05:11</sys_created_on>
+        <sys_id>a57b1cbfc31cc710ae86ffbc05013187</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19dbb4d7f900000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 17:05:11</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>a17b1cbf271cc710a979322ba158db86</update_guid>
+        <update_guid_history>a17b1cbf271cc710a979322ba158db86:543292473</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">f725ce77c3580b10ae86ffbc05013110</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-24 00:47:06</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>54272fa1855b4d98a082b88939dcb690</sys_id>
+        <sys_metadata>617b1cbfc31cc710ae86ffbc05013184</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Nowflix" source="x_1523510_nowflix">f1719152c30c0310ae86ffbc050131d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">f1719152c30c0310ae86ffbc050131d0</sys_scope>
+        <sys_scope_delete display_value="">66a25e40bcf24a10847a6b7f9b3c87b1</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_617b1cbfc31cc710ae86ffbc05013184</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_617b1cbfc31cc710ae86ffbc05013184">a57b1cbfc31cc710ae86ffbc05013187</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-24 00:47:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
